@@ -1,2 +1,3 @@
-# Hangman
-My first "original" video game.
+# exercise-repo
+Repo made for exercises
+Making some changes here!
